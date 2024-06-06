@@ -2,6 +2,7 @@ package datos;
 
 public class AnimalBean {
 
+	
 	private int id;
 	private String nombre;
 	
